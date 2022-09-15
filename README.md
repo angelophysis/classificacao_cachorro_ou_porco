@@ -10,6 +10,6 @@ Projeto bem simples de machine learning do curso "Machine Learning: classificaç
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://defensoresdosanimais.files.wordpress.com/2013/01/cc3a3o-e-porco.jpg#vitrinedev)
+![](https://defensoresdosanimais.files.wordpress.com/2013/01/cc3a3o-e-porco.jpg #vitrinedev)
 
 
