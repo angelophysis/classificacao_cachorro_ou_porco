@@ -1,17 +1,15 @@
-# Nome do meu projeto
+# **Classificação se um animal é um cachorro ou um porco**
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto bem simples de machine learning do curso "Machine Learning: classificação com SKLearn" da Alura, ao qual utiliza o LinearSVC do Scikit Learn para identificar se um animal é um cachorro ou um porco.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Classificação se um animal é um cachorro ou um porco**
+| :label: Tecnologias | Python
+| :rocket: URL         | https://github.com/angelophysis/classificacao_cachorro_ou_porco
+| :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://defensoresdosanimais.files.wordpress.com/2013/01/cc3a3o-e-porco.jpg#vitrinedev)
 
-## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
